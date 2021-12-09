@@ -1,0 +1,16 @@
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.csproj.AssemblyReference.cache
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.AssemblyInfoInputs.cache
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.AssemblyInfo.cs
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.csproj.CoreCompileInputs.cache
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ConsoleApp45.exe
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ConsoleApp45.deps.json
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ConsoleApp45.runtimeconfig.json
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ConsoleApp45.runtimeconfig.dev.json
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ConsoleApp45.dll
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ref\ConsoleApp45.dll
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net5.0\ConsoleApp45.pdb
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.dll
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ref\ConsoleApp45.dll
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.pdb
+C:\Users\Magomed\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net5.0\ConsoleApp45.genruntimeconfig.cache
